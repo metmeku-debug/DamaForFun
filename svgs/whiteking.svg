@@ -1,0 +1,12 @@
+<svg width="420" height="420" viewBox="0 0 420 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="210" cy="210" r="210" fill="#D9D9D9"/>
+<path d="M210 67.5C288.701 67.5 352.5 131.299 352.5 210C352.5 288.701 288.701 352.5 210 352.5C131.299 352.5 67.5 288.701 67.5 210C67.5 131.299 131.299 67.5 210 67.5Z" stroke="black" stroke-width="3"/>
+<path d="M210 67.5C288.701 67.5 352.5 131.299 352.5 210C352.5 288.701 288.701 352.5 210 352.5C131.299 352.5 67.5 288.701 67.5 210C67.5 131.299 131.299 67.5 210 67.5Z" stroke="black" stroke-opacity="0.2" stroke-width="3"/>
+<line x1="135.41" y1="260" x2="284.41" y2="259.026" stroke="black" stroke-width="4"/>
+<line x1="136.505" y1="158.77" x2="174.928" y2="202.683" stroke="black" stroke-width="4"/>
+<line y1="-2" x2="58.3496" y2="-2" transform="matrix(-0.658493 0.752586 0.752586 0.658493 284.846 160)" stroke="black" stroke-width="4"/>
+<line y1="-2" x2="58.3496" y2="-2" transform="matrix(-0.658493 0.752586 0.752586 0.658493 212.846 160)" stroke="black" stroke-width="4"/>
+<line x1="208.928" y1="158.683" x2="247.351" y2="202.596" stroke="black" stroke-width="4"/>
+<line x1="282.423" y1="158" x2="282.423" y2="261.019" stroke="black" stroke-width="4"/>
+<line x1="137.423" y1="158.99" x2="137.423" y2="262.01" stroke="black" stroke-width="4"/>
+</svg>
